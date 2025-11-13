@@ -31,3 +31,6 @@ riak_pb.iml
 
 # C
 c/*
+
+# tools
+mise.toml
