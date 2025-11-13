@@ -20,7 +20,9 @@ dialyzer_warnings
 _build/
 .DS_Store
 test/*.beam
-rebar.lock
+# rebar.lock
+rebar3
+.github
 
 # Java
 target/*
